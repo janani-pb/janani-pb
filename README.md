@@ -23,7 +23,6 @@ role: "Full-Stack Developer (MERN) | AI/ML & IoT Explorer"
 education: "B.E. Computer Science Engineering (AI) — Kongu Engineering College, Tamil Nadu"
 current_focus:
   - "Digital Twin-based Health Monitoring for Pneumatic Cylinders (AI + IoT)"
-  - "Offline-first, multilingual PWAs for real-world impact"
 philosophy: "Ship things that work end-to-end — from database schema to deployed UI."
 interests:
   - Full-stack architecture (React, Node.js, Express, MongoDB)
