@@ -55,15 +55,17 @@ interests:
 </td>
 <td width="50%" valign="top">
 
-### 🚀 FutureMe AI
-**AI-powered digital time capsule PWA**
+### 🌿 AyurSutra
+**Full-stack Ayurvedic clinic management platform — patients, therapy scheduling & medication reminders**
 
-- Space-themed UI with Framer Motion micro-interactions
-- Layered SVG avatar creation engine
-- AI-driven reflection scoring on user journal entries
-- Scheduled, sealed "letters to future self" delivery system
+- Five role-based portals: patient, doctor, therapist, receptionist, admin
+- ACID transaction-based booking that prevents therapist and room double-booking
+- Multi-dose medication schedules with taken/skipped/missed tracking and adherence analytics
+- JWT auth, bcrypt hashing, role-based guards, and an audit log
+- 17-table SQLite schema, REST API, and an end-to-end test suite
+- [View source](https://github.com/janani-pb/REPO-NAME)
 
-`React` `Node.js` `MongoDB` `Framer Motion` `AI Scoring`
+`React 19` `Vite` `Node.js` `Express` `SQLite` `JWT`
 
 </td>
 </tr>
@@ -103,7 +105,7 @@ interests:
 - Product catalog modeled after real brands (Crompton, Panasonic)
 - Detailed, spec-driven product listing pages
 - Responsive, retail-style grid layout with JS-powered interactions
-- Deployed on Streamlit Cloud — [try the live demo](https://gorgeous-manatee-d6a760.netlify.app/)
+- [try the live demo](https://gorgeous-manatee-d6a760.netlify.app/)
 
 `HTML` `CSS` `JavaScript`
 
