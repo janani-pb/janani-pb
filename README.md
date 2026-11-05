@@ -103,6 +103,7 @@ interests:
 - Product catalog modeled after real brands (Crompton, Panasonic)
 - Detailed, spec-driven product listing pages
 - Responsive, retail-style grid layout with JS-powered interactions
+- Deployed on Streamlit Cloud — [try the live demo](https://gorgeous-manatee-d6a760.netlify.app/)
 
 `HTML` `CSS` `JavaScript`
 
