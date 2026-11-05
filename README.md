@@ -110,15 +110,15 @@ interests:
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Digital Twin – Pneumatic Cylinder Health Monitoring
-**AI + IoT predictive maintenance system**
+### 🧾 Invoice AI Extractor
+**AI-powered invoice data extraction, with a live web app**
 
-- Real-time sensor data pipeline feeding a live digital twin model
-- ML-based anomaly detection for early fault prediction
-- IoT telemetry integration for continuous health monitoring
-- Currently in literature review / system design phase
+- Upload an invoice and get structured fields back, no manual data entry
+- Vision-based extraction pipeline built in Python
+- Deployed on Streamlit Cloud — [try the live demo](https://invoice-ai-extractor.streamlit.app/)
+- [View source on GitHub](https://github.com/janani-pb/invoice-ai-extractor)
 
-`AI/ML` `IoT` `Digital Twin` `Predictive Maintenance`
+`Python` `Streamlit` `[AI model/API you used]`
 
 </td>
 </tr>
