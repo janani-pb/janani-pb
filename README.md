@@ -63,7 +63,8 @@ interests:
 - Multi-dose medication schedules with taken/skipped/missed tracking and adherence analytics
 - JWT auth, bcrypt hashing, role-based guards, and an audit log
 - 17-table SQLite schema, REST API, and an end-to-end test suite
-- [View source](https://github.com/janani-pb/REPO-NAME)
+- [View source](https://github.com/janani-pb/agile-repo)
+- [try the live demo](https://client-nine-gamma-62.vercel.app/)
 
 `React 19` `Vite` `Node.js` `Express` `SQLite` `JWT`
 
